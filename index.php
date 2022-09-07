@@ -1,7 +1,7 @@
 <?php
 include('template/header.php');
 ?>
-
+<h1>Hi there</h1>
 <div class="row">
     <div class="col-12 col-md-6 col-lg-6 col-xl-3">
         <div class="card mb-4 status-card" onclick="go(`https://www.google.com`)">
